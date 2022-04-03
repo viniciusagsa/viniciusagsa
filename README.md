@@ -19,3 +19,9 @@
  
 </div>
   
+---
+  
+## Learning more about..
+  - Pandas
+  - Data Visualization: Matplot.lib & Seasborn
+  - Automations
