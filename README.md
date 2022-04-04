@@ -23,5 +23,5 @@
   
 ## Learning more about..
   - Pandas
-  - Data Visualization: Matplot.lib & Seasborn
+  - Data Visualization: Matplotlib & Seaborn
   - Automations
