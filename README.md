@@ -1,8 +1,8 @@
 # Hi! I'm Vinicius Sá
 
 <div align="center">
-  <a href="https://github.com/Vinitsiy">
-  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinitsiy&show_icons=true&theme=atom&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/viniciusagsa">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusagsa&show_icons=true&theme=atom&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block"><br>
 
